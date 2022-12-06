@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sotumfour
 - 👀 I’m interested in programming
-- 🌱 I’m currently studying Harvard's CS50 Introduction to Computer Science
+- 🌱 I’m currently studying Harvard's CS50 Introduction to Computer Science and Skill for Life Front End Web Development
 - 💞️ I’m looking to collaborate with new and experience programmers
 - 📫 How to reach me - LinkedIn Solomon Otumfour
 
